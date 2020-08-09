@@ -1,6 +1,12 @@
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
+This is online video project by Tim Corey, using Caliburn Micro NuGet package.
+in the year 2017. some one says , the maintaince of this package is stopped.
+
+But basics about MVVM, different controls are excellent on the WPF MVVM.
+
+
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
